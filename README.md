@@ -712,7 +712,6 @@ Apache-2.0 License
   * [百融云创](http://www.brgroup.com/product/risk) — 提供贷前、贷中、贷后全生命周期产品和服务。搭建小微企业信贷智能决策平台，助力金融普惠小微。 （工作地点：北京。技术栈：Java）
     * [百小融 · 百融云创](http://www.brgroup.com/product/view?key=14&single=1) — 可以像真人一样拨打电话、听懂对方讲话的内容并自动做出回答与建议。
     * [百小渔 · 百融云创](http://www.brgroup.com/product/view?key=15&single=1) — 是将建模流程线上化、可视化，并支持一键部署的模型自训练系统。
-  * 贝多多 —  
   * 策赢网络 —  
   * 超对称 —  
   * 哆啦宝 —  
