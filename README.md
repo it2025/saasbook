@@ -714,7 +714,6 @@ Apache-2.0 License
     * [百小渔 · 百融云创](http://www.brgroup.com/product/view?key=15&single=1) — 是将建模流程线上化、可视化，并支持一键部署的模型自训练系统。
   * [策赢确权金融平台 · 策赢网络](https://www.cypfintech.com/web/bizframe/jsp/index.jsp) — 是国内唯一的多银行统一确权平台。提供应收账款转让通知确认（俗称确权）的功能，能助力地方政府新旧金融动能转换及商业银行对公业务转型升级，破解中小民企融资难融资贵的传统难题。 （工作地点：上海。技术栈：Java）
   * [超对称 · 超对称科技](https://www.ssymmetry.com/) — 通过SST中概股数据、SST品牌数据、SST量化因子，提前预测企业财报，获取远高于市场的收益率。 （工作地点：北京。技术栈：Python）
-  * 哆啦宝 —  
   * e代理 —  
   * 福韵数据 —  
   * 高登世德 —  
