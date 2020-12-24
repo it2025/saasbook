@@ -24,7 +24,7 @@
 - [CloudBest](https://panii.gitee.io/myimage/images/gzh/qrcode_cloudbestV_1.jpg)
 - [SaaS观察纪](https://panii.gitee.io/myimage/images/gzh/qrcode_gh_3e31be66ebde_1.jpg)
 - [SaaS白夜行](https://panii.gitee.io/myimage/images/gzh/qrcode_SaaSKnight_1.jpg)
-- [SaaS开源收录](https://panii.gitee.io/myimage/images/gzh/qrcode_saasbookcn_1.jpg)
+- [SaaS开源收录<sup>本项目唯一公众号</sup>](https://panii.gitee.io/myimage/images/gzh/qrcode_saasbookcn_1.jpg)
 
 ### 加入Contributors
 本项目从2020年开始每日整理TO B使用的云端系统，暨SaaS软件与相关服务（不包括本地安装的软件、开源框架、SDK、纯硬件等）。  
@@ -52,7 +52,7 @@ Apache-2.0 License
 
 ### 联系我们
 
-[我的微信](https://panii.gitee.io/myimage/images/we3ctlJd1oKPVffQfeSpFAKekPAikkUxa9LipYD7TrcBxgwHzgy4jyxxKW76fzL.png)
+[我的微信](https://panii.gitee.io/myimage/images/wectlJd1oKPVffQfeSpFAKekPAikkUxa9LipYD7TrcBxgwHzgy4jyxxKW76fzL.png)
 
 
 目录
@@ -870,7 +870,7 @@ Apache-2.0 License
   * 大搜车 —  
   * 第一车责 —  
   * 翰都 —  
-  * i店 —  
+  * [i店 · 深圳雷霆思创科技](http://www.idsz.xin/) — I店是一个汽车后服务SaaS平台，帮助门店连接微信电子会员卡、微信电子优惠券、微信小程序、以及微信在线客服实时保持与车主的互动。 （工作地点：深圳。技术栈：Java）
   * 开思汽配 —  
   * 卡派科技 —  
   * 路擎 —  
