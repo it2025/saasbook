@@ -173,10 +173,10 @@ var _hmt = _hmt || [];
 品牌：<input type="text" value="品牌" onchange="setText()" onfocus="this.select()" id="product-name" style="width:300px;padding:2px;font-size:14px;" autocomplete="off" /><br>
 公司：<input type="text" value="公司" onchange="setText()" onfocus="this.select()" id="company-name" style="width:300px;padding:2px;font-size:14px;" autocomplete="off" /><br>
 官网：<input type="text" value="官网" onchange="setText()" onfocus="this.select()" id="url" style="width:300px;padding:2px;font-size:14px;" autocomplete="off" /><br>
-简介：<textarea type="text" id="intro-text" onchange="setText()" onfocus="this.select()" style="width:300px;height:80px;padding:2px;font-size:14px;" autocomplete="off">一句话介绍</textarea><br>
+简介：<textarea type="text" id="intro-text" onchange="setText()" onfocus="this.select()" style="width:300px;height:80px;padding:2px;font-size:14px;" autocomplete="off">简要介绍</textarea><br>
 地址：<input type="text" value="工作地点" id="address" onchange="setText()" onfocus="this.select()" style="width:300px;padding:2px;font-size:14px;" autocomplete="off" /><br>
 技术：<input type="text" value="技术栈" id="hires" onchange="setText()" onfocus="this.select()" style="width:300px;padding:2px;font-size:14px;" autocomplete="off" /><br>
-模版：<textarea type="text" id="markdown-text" onfocus="this.select()" style="width:300px;height:150px;padding:2px;font-size:14px;" readonly>  * [品牌 · 公司](官网) — 一句话介绍  （工作地点：工作地点。技术栈：技术栈）</textarea><br>
+模版：<textarea type="text" id="markdown-text" onfocus="this.select()" style="width:300px;height:150px;padding:2px;font-size:14px;" readonly>  * [品牌 · 公司](官网) — 简要介绍  （工作地点：工作地点。技术栈：技术栈）</textarea><br>
         <center><input type="button" value="复制模版" onclick="setTimeout(function(){document.execCommand('copy');}, 200);document.querySelector('#markdown-text').select();this.value='已复制'" style="padding:5px;font-size:14px;" /></center>
       </p>
     </div>
