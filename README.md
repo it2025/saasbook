@@ -1239,7 +1239,7 @@ Apache-2.0 License
   * 希云 —  
 
 ##### iDaaS
-  * [Authing](https://authing.cn) — 快速实现任何 Web、App 和企业软件的身份认证和用户管理，为你的客户和员工提供最完善的登录解决方案。（工作地点：北京、上海、成都、深圳、南京。技术栈：Node.js、Typescript、React、Vue、Nest.js 等）
+  * [Authing](https://authing.cn) — Authing 身份云是国内首款以开发者为中心的全场景身份云产品。（工作地点：北京、上海、成都、深圳、南京。技术栈：Node.js、Typescript、React、Vue、Nest.js 等）
   * 九州云腾 —  
   * 玉符科技 —  
   * 兆信科技 —  
